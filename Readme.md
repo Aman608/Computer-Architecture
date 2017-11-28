@@ -24,5 +24,3 @@ Total cache size = Data array Size +  Main Tag array size + Halt tag array size 
 #total hits: 13 (assuming every miss is followed by hit.)
 
 
-Names of Members, contribution and contribution percentage:
-
